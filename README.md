@@ -8,3 +8,7 @@ Node.js course (when you enter the website for the first time, the course will b
 # C++
 
 C++ Course (it really helps to understand the basic of C++) - https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb
+
+# roadmap
+
+Front-end developer roadmap 2021 - https://github.com/kamranahmedse/developer-roadmap
