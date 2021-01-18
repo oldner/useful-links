@@ -11,4 +11,4 @@ C++ Course (it really helps to understand the basic of C++) - https://www.youtub
 
 # roadmap
 
-Front-end developer roadmap 2021 - https://github.com/kamranahmedse/developer-roadmap
+Front-end, Back-end and DevOps developer roadmap 2021 - https://github.com/kamranahmedse/developer-roadmap
